@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"version": "0.1.0",
+	"name": "eslint-plugin-hyperupcall",
+	"main": "./src/index.js",
+	"peerDependencies": {
+		"eslint": ">= 8"
+	}
+}
